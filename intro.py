@@ -1,0 +1,5 @@
+print("Name: Abid Hasan Anik")
+print("Age: 26")
+print("College: Dhaka Internation university")
+print("City: Dhaka")
+print("Country: Bangladesh")
